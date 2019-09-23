@@ -4,3 +4,7 @@ github.com/rs/cors v1.6.0 h1:G9tHG9lebljV9mfp9SNPDL36nCDxmo3zTlAf1YgvzmI=
 github.com/rs/cors v1.6.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/twitchtv/twirp v5.5.0+incompatible h1:fiY15GnLE0RM9xRkddwL2m6NjKmMyrr4hiHzHxtpmj8=
 github.com/twitchtv/twirp v5.5.0+incompatible/go.mod h1:RRJoFSAmTEh2weEqWtpPE3vFK5YBhA6bqp2l1kfCC5A=
+go.larrymyers.com/protoc-gen-twirp_typescript v0.0.0-20190605194555-ffbfe407b60f h1:G7kIo7JVH5n4R7aWzagD6orEVQHGdPs3IxOBQjMbXZA=
+go.larrymyers.com/protoc-gen-twirp_typescript v0.0.0-20190605194555-ffbfe407b60f/go.mod h1:51F13nJvsTFin0RTIOZL4z8RxGitAz4ww1TD21okMZs=
+golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e h1:vcxGaoTs7kV8m5Np9uUNQin4BrLOthgV7252N8V+FwY=
+golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
